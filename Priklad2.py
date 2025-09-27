@@ -1,3 +1,4 @@
+# Program 2: Prevrátená hodnota čísla
 x = float(input("zadaj mi cislo: "))
 if x == 0:
     print("cislo nema obratenu hodnotu")

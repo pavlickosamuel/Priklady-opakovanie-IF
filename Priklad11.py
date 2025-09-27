@@ -1,3 +1,4 @@
+# Program 11: Funkcia - najväčšie z troch čísel
 def najvacsie(a, b, c):
     if a>b and a>c:
         return a

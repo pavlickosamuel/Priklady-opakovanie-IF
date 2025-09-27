@@ -1,3 +1,4 @@
+# Program 5: Deliteľnosť troma
 x = int(input("Zadajte cislo: "))
 if x%3 == 0:
     print("cislo je delitelne 3")

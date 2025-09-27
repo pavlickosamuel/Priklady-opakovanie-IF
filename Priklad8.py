@@ -1,3 +1,4 @@
+# Program 8: Kladné, záporné alebo nula
 x = float(input("Zadaj cislo: "))
 if x > 0:
     print("cislo je kladne")

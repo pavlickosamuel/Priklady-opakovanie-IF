@@ -1,3 +1,4 @@
+# Program 9: Kontrola písmena v reťazci
 a = (input("Zadaj retazec: "))
 b = (input("Zadaj pismeno: "))
 print(b in a)

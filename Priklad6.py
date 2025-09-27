@@ -1,3 +1,4 @@
+# Program 6: Deliteľnosť 4 alebo 7
 x = int(input("Zadajte cislo: "))
 if x%4 == 0:
     print("cislo je delitelne 4")

@@ -1,3 +1,4 @@
+# Program 10: Funkcia - je číslo párne
 def je_parne(number):
     if number % 2 == 0:
         return"je parne"

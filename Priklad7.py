@@ -1,3 +1,4 @@
+# Program 7: Väčšie z dvoch čísel
 a = float(input("Zadaj cislo a: "))
 b = float(input("Zadaj cislo b: "))
 if a > b:

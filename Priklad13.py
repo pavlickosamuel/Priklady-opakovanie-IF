@@ -1,3 +1,4 @@
+# Program 13: Funkcia korene kvadratickej rovnice
 import math
 
 def korene_kvadratickej(a, b, c):

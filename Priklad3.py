@@ -1,3 +1,4 @@
+# Program 3: Číslo x patrí do intervalu a,b
 a = float(input("Zadajte minimálnu hodnotu intervalu: "))
 b = float(input("Zadajte maximálnu hodnotu intervalu: "))
 x = float(input("Zadajte hodnotu x: "))
